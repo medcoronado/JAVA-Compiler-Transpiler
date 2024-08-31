@@ -1,0 +1,34 @@
+Credits
+Original Project: Compilador AÑA (Version 1.0)
+
+NOTE: ÑOX is a modified version based on the code from the original project, Compilador AÑA (Version 1.0), which was presented at university for a course.
+
+Team Members and Contributions for the Original Project:
+
+    Martin Enrique Diaz Coronado
+    	Contribution: Development of the AÑA compiler, Development of the CJA language, Project documentation, Quality Assurance (QA).
+
+    Roberto Samuel Garcia Rocha
+        Contribution: Development of the AÑA compiler, Development of the CJA language, Quality Assurance (QA).
+
+    Angelica Manrique Villagomez
+        Contribution: Development of the CJA language.
+
+    Rosa Maria Vega Natividad
+        Contribution: Development of the CJA language.
+
+    Oscar Villanueva Morales
+        Contribution: Development of the CJA language.
+
+    Diana Paola Nava Castro
+        Contribution: Development of the CJA language.
+
+    Dulce Idalia Mireles Vazquez
+        Contribution: Compatibility testing.
+
+    Ramón Alfonso Guillen Elizondo
+        Contribution: Compatibility testing.
+
+Current Project: ÑOX
+
+ÑOX is a variant developed by Martin Enrique Diaz Coronado. This version has been expanded with a new visual style, optimizations, and includes documentation and testing.

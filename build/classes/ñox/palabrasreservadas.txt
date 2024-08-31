@@ -1,0 +1,39 @@
+PALABRAS RESERVADAS
+entero	int	Declara valores enteros
+largo	long	Declara valores mas largos
+corto	short	Declara valores cortos
+caracter	char	Se usa para textos en listas o arreglos
+flotante	float	Declara valores flotantes
+doble	double	Declara valores con mas peso en bytes
+booleano	bool	Este es el de verdadero o falso
+
+
+Si	if	Para el ciclo if
+sino	else	Union para lo del ciclo if, si no pasa una cosa pasa la otra
+seleccionar	switch	Para hacer un menu de selección
+caso	case	Para unirlo con el seleccionar y poner los diferentes casos a seleccionar
+Pordefecto	default	Este va con los caso, se pone al final para definir que no paso ninguno de los casos definidos y cuando no pasa ninguno, este pasa
+
+
+para	for	Para el ciclo for
+mientras	while	Para el ciclo while
+haz	do	Para decirle al programa que haga algo
+
+
+romper	break	Para detener el programa en un punto
+continuar	continue	Para continuar despues de haber detenido o para continuar simplemente
+retornar	return	Se pone al finalizar el programa o es para regresar un valor de alguna función 
+irsea	goto	Para ir a una parte de la memoria o del programa
+cadenadecaracteres	char	Parecido a un arreglo pero es para meter cadenas de textos
+tamde	Sizeof	Es para definer el tamaño de la cadena de caracteres
+
+enumeracion	enum	
+estructura	struct	
+tipodefinido	typedef	
+verdadero	1	
+falso	0	
+nulo	NULL	Para valores Nulos
+INICIAR		Para iniciar el programa.
+FINALIZAR		Para finalizar el programar
+EQUIPO		Muestra los nombres de los del equipo
+desplegar	printf	Para imprimir texto en consola
