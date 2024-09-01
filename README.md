@@ -35,7 +35,7 @@ Para obtener más información sobre cómo utilizar el compilador y las palabras
 
 | Documento                          | Enlace                                                                 |
 |------------------------------------|-----------------------------------------------------------------------|
-| Manual de Usuario                  | [Descargar Manual de Usuario](https://drive.google.com/uc?export=download&id=1qxNwAJXZ_jlsEkKo62u_Sv8rpiA1363X)  |
+| Manual de Usuario                  | [Descargar Manual de Usuario](https://drive.google.com/uc?export=download&id=1-qfDUFnDuhV7tzcftqw7zxyc_b7kePFu)  |
 | Palabras Reservadas del Lenguaje CJA | [Descargar Documento de Palabras Reservadas](https://drive.google.com/uc?export=download&id=1nBabySIkc5gdnFmoVXfHRfpnSsYroXUx) |
 | 10 Ejemplos de programas básicos escritos en CJA                 | [Descargar 10 Programas en CJA](https://drive.google.com/uc?export=download&id=1FAoLTtDFRKttryJkTtQV5Unb4SCOH5Pi)              |
 
